@@ -1,8 +1,4 @@
-Proiectul are ca scop ilustrarea celor patru functionalitati de baza – CRUD, folosind API-uri.
 
-S-a folosit MongoBD ca baza de date, in cloud. Pentru aplicatie, am folosit Node.js cu framework-ul Express.js. 
-
-Link catre video Youtube: https://www.youtube.com/watch?v=1L3eudxg45Q 
 
  Introducere
  
